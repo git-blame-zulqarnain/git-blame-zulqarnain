@@ -190,7 +190,7 @@ Python-based automation engine integrating **Google Classroom + Drive APIs**. Au
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 [Sparrows OS](https://github.com/git-lblame-zulqarnain/Sparrows-OS)
+### 🔹 [Sparrows OS](https://github.com/git-blame-zulqarnain/Sparrows-OS)
 A computer-orchestrated vision operating system. Explores OS-level architecture, process orchestration, and system coordination built from first principles.
 
 `Java` `OS Design` `Systems Architecture`
@@ -243,44 +243,87 @@ ML pipeline for credit card fraud detection using statistical modeling and super
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-| 🥇 | Achievement | Impact |
-|:---:|---|---|
-| 🏆 | **NYUAD Hackathon Winner** | Vibe Coding Challenge — Spark Category, competitive international field |
-| 🧑‍💼 | **Head of DevOps — GDGoC FAST Islamabad** | Leading infrastructure planning and deployment operations |
-| 🎤 | **Head Seminars — FAST Computing Society** | Organized and delivered 5+ technical knowledge sessions |
-| 🔧 | **Officer — IEEE FAST-NUCES ISB** | Supporting technical operations and engineering initiatives |
-| 🏅 | **ICPC Preliminary Round** | Ranked certificate — competitive algorithmic programming |
-| 🛡️ | **CSX Cybersecurity Fundamentals** | Certified in core cybersecurity principles and practices |
-| 🌌 | **WSW Space Visionary & Innovator** | Recognition for innovative technical thinking |
-| 🤖 | **Agentic AI Hackathon — IBM watsonx Orchestrate** | Competed in enterprise-grade AI automation challenge |
-| 🌐 | **IP Addressing & Subnetting** | Validated networking and infrastructure fundamentals |
-| 🤝 | **Freelance Engineer (2021–Present)** | 40+ projects delivered across international clients |
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                        ENGINEERING MILESTONES                             ║
+╠════════════════════════╦══════════════════════════════════════════════════╣
+║  🏆 NYUAD HACKATHON    ║  International Vibe Coding Competition           ║
+║     WINNER             ║  Spark Category · Competed against global        ║
+║                        ║  field · Production-grade delivery under          ║
+║                        ║  real competition pressure                        ║
+╠════════════════════════╬══════════════════════════════════════════════════╣
+║  🤖 IBM WATSONX        ║  Agentic AI Hackathon                            ║
+║     ORCHESTRATE        ║  Enterprise-grade AI automation challenge ·      ║
+║                        ║  Built agentic pipelines on IBM infrastructure    ║
+╠════════════════════════╬══════════════════════════════════════════════════╣
+║  🏅 ICPC               ║  Preliminary Round · Ranked Certificate          ║
+║     COMPETITIVE        ║  Algorithmic problem solving at international    ║
+║     PROGRAMMING        ║  collegiate level                                ║
+╠════════════════════════╬══════════════════════════════════════════════════╣
+║  🌌 WSW SPACE AWARD    ║  Space Visionary & Innovator                     ║
+║                        ║  Recognized for innovative technical thinking    ║
+║                        ║  and forward-looking engineering vision          ║
+╠════════════════════════╬══════════════════════════════════════════════════╣
+║  🛡️ CSX CYBERSECURITY  ║  Fundamentals · Certified                       ║
+║     CERTIFIED          ║  Validated expertise in core security            ║
+║                        ║  principles, threat detection & response         ║
+╠════════════════════════╬══════════════════════════════════════════════════╣
+║  🌐 NETWORKING         ║  IP Addressing & Subnetting · Certified          ║
+║     CERTIFIED          ║  Validated infrastructure and network            ║
+║                        ║  engineering fundamentals                        ║
+╚════════════════════════╩══════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🧠 Experience
+## 🧠 Engineering Experience
 
-<div align="center">
+### 🏗️ Infrastructure & DevOps Leadership
 
-| Role | Organization | Period |
-|---|---|---|
-| 🧑‍💼 **Head of DevOps** | GDGoC FAST Islamabad | Oct 2025 – Present |
-| 🎤 **Officer, Technical Workshops** | GDGoC FAST Islamabad | Oct 2025 – Present |
-| 📢 **Head Seminars Team** | FAST Computing Society | Sep 2025 – Present |
-| ⚙️ **Officer Events & Seminars** | FAST Computing Society | Sep 2024 – Sep 2025 |
-| 🔧 **Officer Ops Team** | IEEE FAST-NUCES ISB | Feb 2025 – Apr 2025 |
-| 🤖 **AI Intern** | Software Productivity Strategists (SPS) | Jul – Sep 2025 |
-| 📊 **Data Science & Analytics Intern** | DevelopersHub Corporation | Apr – Jun 2025 |
-| 💻 **Software Engineer Intern** | DevelopersHub Corporation | Apr – Jun 2025 |
-| 💼 **Project-Based Freelancing** | Independent | Jan 2021 – Present |
+**Head of DevOps** · *Google Developer Groups on Campus, FAST Islamabad* · `Oct 2025 – Present`
+> Leading infrastructure strategy, deployment pipelines, and operational architecture for one of Pakistan's most active developer communities. Responsible for end-to-end DevOps workflows across all technical initiatives.
 
-</div>
+---
+
+### 🎯 Hackathon Infrastructure & Technical Direction
+
+**Hackathon Organizer** · *2× End-to-End Events Delivered* · `2024 – 2025`
+> Architected the full technical and operational logistics for 2 hackathons — from infrastructure planning and team coordination to live execution. Managed multi-team environments under real deadline pressure, ensuring smooth technical delivery across all tracks.
+
+---
+
+### 🔬 Applied Research & Knowledge Engineering
+
+**Head of Technical Seminars** · *FAST Computing Society* · `Sep 2025 – Present`
+> Led a team that designed and delivered 5+ deep-dive technical sessions covering systems, networking, and security engineering. Transformed complex topics into actionable, practical knowledge for developer audiences.
+
+**Research Contributor** · *Distributed Generation & Power Systems* · `2023`
+> Co-authored research on distributed generation systems and their impact on modern power distribution networks — analyzing grid efficiency, reliability tradeoffs, and renewable energy integration at the systems level.
+
+**Cybersecurity Engineering** · *Network Security & IDS Implementations* · `2023`
+> Delivered technical workshops on Snort-based intrusion detection, wireless exploit defense, and real-world network hardening. Implemented and validated IDS systems in live network environments.
+
+---
+
+### 💼 Industry Engineering
+
+**AI Engineering Intern** · *Software Productivity Strategists (SPS)* · `Jul – Sep 2025`
+> Built AI automation pipelines and applied NLP systems in a production engineering environment — working on real client-facing intelligent workflow solutions.
+
+**Software Engineer Intern** · *DevelopersHub Corporation* · `Apr – Jun 2025`
+> Contributed to production codebases with clean, tested code. Applied industry-standard engineering workflows in collaborative team environments.
+
+**Data Science & Analytics Engineer** · *DevelopersHub Corporation* · `Apr – Jun 2025`
+> Designed data pipelines and analytical models for real-world datasets. Delivered actionable insights through statistical analysis and Python-based tooling.
+
+**Freelance Systems & Backend Engineer** · *Independent* · `Jan 2021 – Present`
+> 40+ projects delivered across full-stack development, backend architecture, and technical consulting for international clients. Consistent track record of shipping reliable systems under client constraints.
 
 ---
 
@@ -306,53 +349,12 @@ ML pipeline for credit card fraud detection using statistical modeling and super
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/git-blame-zulqarnain/git-blame-zulqarnain/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/git-blame-zulqarnain/git-blame-zulqarnain/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/git-blame-zulqarnain/git-blame-zulqarnain/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/git-blame-zulqarnain/git-blame-zulqarnain/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
-
-<details>
-<summary>⚙️ Click to see Snake Animation Setup</summary>
-
-Create `.github/workflows/main.yaml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: git-blame-zulqarnain
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - run: git status
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
