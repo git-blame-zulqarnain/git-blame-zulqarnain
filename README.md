@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050d1a,60:0a1628,100:0d2137&height=220&section=header&text=Muhammad%20Zulqarnain&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Systems%20Engineering%20%E2%80%A2%20Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20Distributed%20Systems&descAlignY=56&descColor=38bdf8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050d1a,60:0a1628,100:0d2137&height=220&section=header&text=Muhammad%20Zulqarnain&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Systems%20Engineering%20%E2%80%A2%20Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cybersecurity&descAlignY=56&descColor=38bdf8&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Systems-Oriented+Backend+Engineer+%F0%9F%9B%A0%EF%B8%8F;Distributed+Systems+%7C+DevOps+%7C+Infrastructure;Building+Systems+That+Scale+Under+Real+Conditions;Automation+%7C+Networking+%7C+Linux+%7C+Security;Engineering+for+Performance%2C+Reliability%2C+and+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Systems-Oriented+Backend+Engineer+%F0%9F%9B%A0%EF%B8%8F;Distributed+Systems+%7C+DevOps+%7C+Infrastructure;Building+Systems+That+Scale+Under+Real+Conditions;Cybersecurity+%7C+Networking+%7C+OSINT+%7C+Automation;Engineering+for+Performance%2C+Reliability%2C+and+Scale)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,15 +27,15 @@
 
 > *"I don't just write code — I design systems that survive real-world constraints and scale under pressure."*
 
-I'm a **Systems & Backend Engineer** from 🇵🇰 Pakistan, operating at the intersection of **distributed systems, backend architecture, DevOps automation, and infrastructure reliability**. My engineering philosophy centers on building systems that are not just functional — but resilient, observable, and built to last.
+I'm a **Systems & Backend Engineer** from 🇵🇰 Pakistan, operating at the intersection of **distributed systems, backend architecture, DevOps automation, cybersecurity, and infrastructure reliability**. My engineering philosophy centers on building systems that are not just functional — but resilient, observable, and built to last.
 
 - ⚙️ **Systems-First Engineer** — designing for failure, performance, and scale from the ground up
-- 🚀 **DevOps & Infrastructure** — CI/CD pipelines, deployment automation, and operational excellence
-- 🌐 **Networking & Security** — intrusion detection, subnetting, routing, and system-level hardening
-- 🤖 **AI & Automation** — building intelligent pipelines that eliminate manual overhead at scale
-- 🏆 **NYUAD Hackathon Winner** — Vibe Coding Challenge, Spark Category
+- 🚀 **DevOps & Infrastructure** — CI/CD, Kubernetes, Terraform, Ansible, and deployment automation
+- 🛡️ **Cybersecurity & OSINT** — penetration testing, intrusion detection, and threat reconnaissance
+- 🤖 **AI & Automation** — intelligent pipelines via Python, n8n, Make, and Zapier
+- 🏆 **NYUAD International Hackathon Winner** — Vibe Coding Challenge, Spark Category
 - 🎤 **Head of DevOps @ GDGoC FAST Islamabad** — leading infrastructure and deployment operations
-- 🎯 **Execution-Driven** — 40+ projects shipped across backend, systems, security, and data domains
+- 🎯 **Execution-Driven** — 40+ projects shipped across backend, security, systems, and data domains
 
 <br clear="right"/>
 
@@ -49,19 +49,19 @@ I'm a **Systems & Backend Engineer** from 🇵🇰 Pakistan, operating at the in
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
 │   ⚙️  Backend Engineering          🚀  DevOps & Infrastructure          │
-│       API Design · Architecture        CI/CD · Automation               │
-│       System Design · Scalability      Deployment · Monitoring          │
-│                                        Linux · Git · Pipelines          │
+│       API Design · Architecture        CI/CD · Docker · Kubernetes      │
+│       System Design · Scalability      Terraform · Ansible · Jenkins    │
+│                                        GitHub Actions · Monitoring      │
 │                                                                         │
-│   🌐  Networking & Security        🧠  Distributed Systems              │
-│       Subnetting · Routing             Fault Tolerance · Scalability    │
-│       IDS · Snort · Topologies         Reliability Engineering          │
-│       Wireless Security                Concurrent Systems               │
+│   🛡️  Cybersecurity & OSINT        🧠  Distributed Systems              │
+│       Penetration Testing              Fault Tolerance · Scalability    │
+│       IDS · Snort · Metasploit         Reliability Engineering          │
+│       Recon-ng · SpiderFoot            Concurrent Systems               │
 │                                                                         │
 │   🖥️  Systems Programming          🤖  AI & Automation                  │
-│       OS Internals · C/C++             NLP · Data Pipelines             │
-│       Memory · Processes               Workflow Automation              │
-│       Kernel-Level Concepts            Applied ML Systems               │
+│       OS Internals · C/C++             NLP · Computer Vision            │
+│       Memory · Processes               n8n · Make · Zapier              │
+│       Kernel-Level Concepts            Python Automation Pipelines      │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
@@ -80,41 +80,71 @@ I'm a **Systems & Backend Engineer** from 🇵🇰 Pakistan, operating at the in
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Web
+### ⚙️ Backend, Web & Mobile
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-### 🖥️ Systems & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 🌐 Networking & Security
+### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intrusion%20Detection-FF6600?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireless%20Security-6929C4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### 🤖 AI & Data
+### 🚀 DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 🛡️ Cybersecurity & Penetration Testing
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 🔍 OSINT & Reconnaissance
+<p>
+  <img src="https://img.shields.io/badge/Recon--ng-222222?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpiderFoot-4B0082?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatMyName-1A1A2E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-FF4500?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
+
+### 🤖 AI, Data & Automation
 <p>
   <img src="https://img.shields.io/badge/Python%20ML-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-00C7B7?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-00C7B7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
@@ -125,7 +155,7 @@ I'm a **Systems & Backend Engineer** from 🇵🇰 Pakistan, operating at the in
 ```python
 class MuhammadZulqarnain:
     """
-    Systems & Backend Engineer | DevOps · Distributed Systems · Infrastructure
+    Systems & Backend Engineer | DevOps · Cybersecurity · Distributed Systems
     """
 
     location    = "Rawalpindi, Pakistan 🇵🇰  →  Global 🌐"
@@ -133,20 +163,22 @@ class MuhammadZulqarnain:
     portfolio   = "https://zulqarnain-portfolio-phi.vercel.app/"
 
     domains = {
-        "Backend"       : ["API Design", "System Architecture", "MERN Stack", "Scalability"],
-        "DevOps"        : ["CI/CD Pipelines", "GitHub Actions", "Deployment Automation", "Monitoring"],
-        "Systems"       : ["OS Internals", "Memory Management", "Concurrent Programming", "C/C++"],
-        "Networking"    : ["Subnetting", "Routing Protocols", "Intrusion Detection", "Snort"],
-        "AI Systems"    : ["Automation Pipelines", "NLP", "Applied ML", "Computer Vision"],
+        "Backend"        : ["API Design", "System Architecture", "MERN Stack", "Laravel", "Scalability"],
+        "DevOps"         : ["Kubernetes", "Terraform", "Ansible", "Jenkins", "GitHub Actions", "Docker"],
+        "Cybersecurity"  : ["Penetration Testing", "OSINT", "IDS/IPS", "Network Hardening", "Metasploit"],
+        "Systems"        : ["OS Internals", "Memory Management", "Concurrent Programming", "C/C++"],
+        "Automation"     : ["n8n", "Make", "Zapier", "Python Pipelines", "Bash Scripting"],
+        "Databases"      : ["MongoDB", "PostgreSQL", "MySQL", "SQL Server"],
     }
 
     highlights = [
-        "NYUAD Hackathon Winner — Vibe Coding Spark Category",
-        "Head of DevOps @ GDGoC FAST Islamabad",
-        "40+ Projects Shipped Across Multiple Domains",
-        "5+ Technical Seminars Delivered",
+        "🏆 NYUAD International Hackathon Winner — Spark Category",
+        "🚀 Head of DevOps @ GDGoC FAST Islamabad",
+        "🔬 Published Research — Distributed Generation & Power Systems",
+        "40+ Projects Shipped Across Backend, Security & Systems",
+        "5+ Deep-Dive Technical Sessions Delivered",
         "2 Hackathons Organized End-to-End",
-        "5+ Years of Consistent Engineering Practice",
+        "5+ Years of Consistent Engineering Execution",
     ]
 
     principles = [
@@ -159,8 +191,8 @@ class MuhammadZulqarnain:
     open_to = [
         "Backend / Systems Engineering Roles",
         "DevOps & Infrastructure Engineering",
-        "Research Collaborations",
-        "Open Source Contributions",
+        "Cybersecurity & Offensive Security Roles",
+        "Research Collaborations & Open Source",
     ]
 ```
 
@@ -173,7 +205,7 @@ class MuhammadZulqarnain:
 <td width="50%" valign="top">
 
 ### 🔹 [Classroom Automator](https://github.com/git-blame-zulqarnain/Classroom-automator)
-Python-based automation engine integrating **Google Classroom + Drive APIs**. Auto-detects quizzes, tracks assignment deadlines, and bulk-downloads course materials through a fast, unified interface.
+Python-based automation engine integrating **Google Classroom + Drive APIs**. Auto-detects quizzes, tracks deadlines, and bulk-downloads course materials through a fast, unified interface.
 
 `Python` `Google APIs` `Automation` `Resource Management`
 
@@ -181,7 +213,7 @@ Python-based automation engine integrating **Google Classroom + Drive APIs**. Au
 <td width="50%" valign="top">
 
 ### 🔹 [MindSpark — NYUAD Winner](https://github.com/git-blame-zulqarnain/MindSpark)
-**Hackathon-winning** project from the NYUAD Vibe Coding Challenge (Spark Category). Built under real competition pressure with production-ready frontend architecture.
+**International hackathon-winning** project from the NYUAD Vibe Coding Challenge (Spark Category). Built under competition pressure with production-ready architecture.
 
 `TypeScript` `Web Dev` `Hackathon` `NYUAD`
 
@@ -217,7 +249,7 @@ Interactive sorting algorithm visualizer — making data structures tangible thr
 <td width="50%" valign="top">
 
 ### 🔹 [Fraud Detection System](https://github.com/git-blame-zulqarnain/Fraud-Detection-System)
-ML pipeline for credit card fraud detection using statistical modeling and supervised classification — applied data science in a high-stakes domain.
+ML pipeline for credit card fraud detection using statistical modeling and supervised classification — applied data science in a high-stakes security domain.
 
 `Python` `ML` `Data Science` `Security`
 
@@ -233,11 +265,12 @@ ML pipeline for credit card fraud detection using statistical modeling and super
 
 | ⚡ Metric | 📈 Value |
 |:---:|:---:|
+| 🏆 International Hackathon Won | **NYUAD — Spark Category** |
 | 🚀 Projects Shipped | **40+** |
-| 🎤 Technical Seminars Delivered | **5+** |
-| 🏆 Hackathons Organized | **2** |
+| 🔬 Research Papers Co-Authored | **Published** |
+| 🎤 Technical Sessions Delivered | **5+** |
+| 🏗️ Hackathons Organized | **2** |
 | 💻 Years in Engineering | **5+** |
-| 🌐 GitHub Contributions (Last Year) | **310+** |
 
 </div>
 
@@ -260,6 +293,10 @@ ML pipeline for credit card fraud detection using statistical modeling and super
 ║     ORCHESTRATE        ║  Enterprise-grade AI automation challenge ·      ║
 ║                        ║  Built agentic pipelines on IBM infrastructure    ║
 ╠════════════════════════╬══════════════════════════════════════════════════╣
+║  🔬 PUBLISHED          ║  Distributed Generation & Power Systems          ║
+║     RESEARCH           ║  Co-authored research on distributed energy      ║
+║                        ║  integration and grid reliability analysis       ║
+╠════════════════════════╬══════════════════════════════════════════════════╣
 ║  🏅 ICPC               ║  Preliminary Round · Ranked Certificate          ║
 ║     COMPETITIVE        ║  Algorithmic problem solving at international    ║
 ║     PROGRAMMING        ║  collegiate level                                ║
@@ -269,8 +306,8 @@ ML pipeline for credit card fraud detection using statistical modeling and super
 ║                        ║  and forward-looking engineering vision          ║
 ╠════════════════════════╬══════════════════════════════════════════════════╣
 ║  🛡️ CSX CYBERSECURITY  ║  Fundamentals · Certified                       ║
-║     CERTIFIED          ║  Validated expertise in core security            ║
-║                        ║  principles, threat detection & response         ║
+║     CERTIFIED          ║  Threat detection, network security &            ║
+║                        ║  incident response fundamentals                  ║
 ╠════════════════════════╬══════════════════════════════════════════════════╣
 ║  🌐 NETWORKING         ║  IP Addressing & Subnetting · Certified          ║
 ║     CERTIFIED          ║  Validated infrastructure and network            ║
@@ -287,7 +324,7 @@ ML pipeline for credit card fraud detection using statistical modeling and super
 ### 🏗️ Infrastructure & DevOps Leadership
 
 **Head of DevOps** · *Google Developer Groups on Campus, FAST Islamabad* · `Oct 2025 – Present`
-> Leading infrastructure strategy, deployment pipelines, and operational architecture for one of Pakistan's most active developer communities. Responsible for end-to-end DevOps workflows across all technical initiatives.
+> Leading infrastructure strategy, deployment pipelines, and operational architecture for one of Pakistan's most active developer communities. Responsible for end-to-end DevOps workflows — CI/CD, containerization, and environment management — across all technical initiatives.
 
 ---
 
@@ -298,32 +335,23 @@ ML pipeline for credit card fraud detection using statistical modeling and super
 
 ---
 
-### 🔬 Applied Research & Knowledge Engineering
-
-**Head of Technical Seminars** · *FAST Computing Society* · `Sep 2025 – Present`
-> Led a team that designed and delivered 5+ deep-dive technical sessions covering systems, networking, and security engineering. Transformed complex topics into actionable, practical knowledge for developer audiences.
+### 🔬 Applied Research & Security Engineering
 
 **Research Contributor** · *Distributed Generation & Power Systems* · `2023`
 > Co-authored research on distributed generation systems and their impact on modern power distribution networks — analyzing grid efficiency, reliability tradeoffs, and renewable energy integration at the systems level.
 
-**Cybersecurity Engineering** · *Network Security & IDS Implementations* · `2023`
-> Delivered technical workshops on Snort-based intrusion detection, wireless exploit defense, and real-world network hardening. Implemented and validated IDS systems in live network environments.
+**Cybersecurity Engineering** · *OSINT, Penetration Testing & IDS Research* · `2023 – Present`
+> Deep-dive work in offensive and defensive security — deploying Snort-based IDS, conducting passive reconnaissance with Recon-ng and SpiderFoot, wireless exploit detection, and real-world network hardening. Hands-on with Metasploit, Burp Suite, Wireshark, SQLMap, and OWASP ZAP in controlled environments.
 
 ---
 
 ### 💼 Industry Engineering
 
 **AI Engineering Intern** · *Software Productivity Strategists (SPS)* · `Jul – Sep 2025`
-> Built AI automation pipelines and applied NLP systems in a production engineering environment — working on real client-facing intelligent workflow solutions.
+> Built AI automation pipelines and applied NLP systems in a production engineering environment — delivering real client-facing intelligent workflow solutions.
 
-**Software Engineer Intern** · *DevelopersHub Corporation* · `Apr – Jun 2025`
-> Contributed to production codebases with clean, tested code. Applied industry-standard engineering workflows in collaborative team environments.
-
-**Data Science & Analytics Engineer** · *DevelopersHub Corporation* · `Apr – Jun 2025`
-> Designed data pipelines and analytical models for real-world datasets. Delivered actionable insights through statistical analysis and Python-based tooling.
-
-**Freelance Systems & Backend Engineer** · *Independent* · `Jan 2021 – Present`
-> 40+ projects delivered across full-stack development, backend architecture, and technical consulting for international clients. Consistent track record of shipping reliable systems under client constraints.
+**Freelance Systems & Backend Engineer** · *Fiverr, Upwork & Freelancing Platforms* · `Jan 2021 – Present`
+> 40+ projects shipped — full-stack development, backend architecture, automation systems, and technical consulting for international clients.
 
 ---
 
@@ -352,7 +380,7 @@ ML pipeline for credit card fraud detection using statistical modeling and super
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/git-blame-zulqarnain/git-blame-zulqarnain/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/git-blame-zulqarnain/git-blame-zulqarnain/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/git-blame-zulqarnain/git-blame-zulqarnain/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/git-blame-zulqarnain/git-blame-zulqarnain/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
@@ -360,7 +388,7 @@ ML pipeline for credit card fraud detection using statistical modeling and super
 
 <div align="center">
 
-**⚙️ Systems · 🚀 DevOps · 🌐 Networking · 🧠 Distributed Systems · 🤖 Automation**
+**⚙️ Systems · 🚀 DevOps · 🛡️ Cybersecurity · 🧠 Distributed Systems · 🤖 Automation**
 
 <br/>
 
