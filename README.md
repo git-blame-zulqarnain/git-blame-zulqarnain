@@ -139,9 +139,22 @@ I'm a **Systems & Backend Engineer** from 🇵🇰 Pakistan, operating at the in
 
 ### 🤖 AI, Data & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python%20ML-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-00C7B7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
@@ -167,14 +180,15 @@ class MuhammadZulqarnain:
         "DevOps"         : ["Kubernetes", "Terraform", "Ansible", "Jenkins", "GitHub Actions", "Docker"],
         "Cybersecurity"  : ["Penetration Testing", "OSINT", "IDS/IPS", "Network Hardening", "Metasploit"],
         "Systems"        : ["OS Internals", "Memory Management", "Concurrent Programming", "C/C++"],
-        "Automation"     : ["n8n", "Make", "Zapier", "Python Pipelines", "Bash Scripting"],
+        "AI & Data"      : ["PyTorch", "TensorFlow", "HuggingFace", "LangChain", "scikit-learn", "FastAPI", "Streamlit"],
+        "Automation"     : ["n8n", "Make", "Zapier", "Python Pipelines", "Selenium", "Bash Scripting"],
         "Databases"      : ["MongoDB", "PostgreSQL", "MySQL", "SQL Server"],
     }
 
     highlights = [
         "🏆 NYUAD International Hackathon Winner — Spark Category",
         "🚀 Head of DevOps @ GDGoC FAST Islamabad",
-        "🔬 Published Research — Distributed Generation & Power Systems",
+        "🔬 Research — Distributed Generation & Power Systems",
         "40+ Projects Shipped Across Backend, Security & Systems",
         "5+ Deep-Dive Technical Sessions Delivered",
         "2 Hackathons Organized End-to-End",
